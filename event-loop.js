@@ -126,4 +126,4 @@ for(let i=0; i<10000; i++){
 
 //Once complete, use the alert() method to alert the user that the calculation is finished.
 
-// alert("I finished finding the Prime numbers")
+alert("I finished finding the Prime numbers")
